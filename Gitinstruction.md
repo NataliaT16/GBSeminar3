@@ -1,6 +1,31 @@
 # My git Instruction
 *git init* - команда, инициализирующая репозиторий в текущей папке 
 
-*git status* - команда получаем статус
-
 *git add* - команда добавления изменений
+
+*git config* --global user.name "Name" - указать свое имя 
+
+*git config --global user.email "email"* - указать email
+
+*git status* - проверка статуса репозитория
+
+*git commit -m "Your short summary about the commit"* - создание коммита с коментарием
+
+*git diff* - просмотреть список изменений
+
+*git log* - просмотр истории коммитов с изменениями
+
+*git show 1af17e* - просмотр заданного коммита
+
+*git rm dirname/somefile.js* - удаление файла из текущего рабочего дерева
+
+*git mv dir1/somefile.js dir2* - Переименовать файл или папку можно параметром mv. Для него указывается источник source и назначение destination
+
+*git checkout somefile.js* - восстановить файлы не подготовленные к коммиту
+
+*git revert* - отменить последний коммит
+
+*git reset* - вернуть проект в исходное состояние
+
+*git revert 1af17e* - откат заданного коммита
+
