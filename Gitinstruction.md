@@ -46,4 +46,11 @@
 
 *git branch name* - создание ветки
 
+*git checkout branch name* - перейти в ветку
+
+*git merge branch name* - свести ветку. Делаем из ветки master, указываем имя ветки, которую сводим
+
+*git branch lists* - список веток
+
+
 
