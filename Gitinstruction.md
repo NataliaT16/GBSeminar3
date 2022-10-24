@@ -52,5 +52,6 @@
 
 *git branch lists* - список веток
 
+*git branch -d baranch name* - удалить ветку
 
 
