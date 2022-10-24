@@ -52,6 +52,9 @@
 
 *git branch lists* - список веток
 
-*git branch -d baranch name* - удалить ветку
+*git branch -d branch name* - удалить ветку
 
 
+Тест 
+
+_git add*_ - добавить все файлы
